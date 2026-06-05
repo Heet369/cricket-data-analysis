@@ -37,7 +37,7 @@ Here is a glimpse of the application interface highlighting the various analytic
 
 <table>
   <tr>
-    <td align="center"><b>Power Hitters Stats</b><br><img src="Screenshots/power_hitters_and_openers.jpg" alt="Power Hitters" width="100%"/></td>
+    <td align="center"><b>Power Hitters Stats</b><br><img src="Screenshots/finishers.jpg" alt="Power Hitters" width="100%"/></td>
     <td align="center"><b>Fast Bowlers Analysis</b><br><img src="Screenshots/fast_bowlers.jpg" alt="Fast Bowlers" width="100%"/></td>
   </tr>
   <tr>
