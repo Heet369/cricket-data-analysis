@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#f5c518"
+backgroundColor = "#0b1120"
+secondaryBackgroundColor = "#1c2840"
+textColor = "#f0f4ff"
+font = "sans serif"
+
+[client]
+maxMessageSize = 200
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = true
