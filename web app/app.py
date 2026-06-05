@@ -567,7 +567,9 @@ def main():
         """, unsafe_allow_html=True)
 
         st.markdown("<br>", unsafe_allow_html=True)
-        st.page_link("pages/final_11.py", label="🏆 Build Your Final XI", use_container_width=True)
+        # st.page_link("pages/final_11.py", label="🏆 Build Your Final XI", use_container_width=True)
+        if st.button("🏆 Build Your Final XI", use_container_width=True):
+            st.switch_page("pages/final_11.py")
 
     # ── Hero scoreboard ───────────────────────────────────────────────────
     st.markdown("""
